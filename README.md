@@ -5,7 +5,9 @@
 
 - 👯 I’m looking to collaborate on *JavaScript*
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:
+<span><a href="https://www.linkedin.com/in/shrishti-jain21/">LinkedIn</a></span>
+</h3>
 <p align="left">
 </p>
 
