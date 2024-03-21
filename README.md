@@ -12,6 +12,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<span>HTML</span>
+<span>CSS</span>
+<span>Javascript</span>
+<span>Bootstrap</span>
+<span>React Js</span>
+<span>SCSS</span>
+<span>Tailwind CSS</span>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <im### Hi there 👋
 
 <!--
