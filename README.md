@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Javascript Projects**
 
-- 👨‍💻 All of my projects are available at [shrishti-portfolio.vercel.app](shrishti-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [shrishtiportfolio.vercel.app](shrishti-portfolio.vercel.app)
 
 - 📫 How to reach me **https://www.linkedin.com/in/shrishti-jain21/**
 
